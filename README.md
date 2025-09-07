@@ -2,10 +2,10 @@
   RISC-V-Instruction-Converter
 </h1>
 
-# Table of Contents
-- ## [Demo Picture]()
-- ## [Features](https://github.com/h11nry/RISC-V-Instruction-Converter/blob/main/README.md#features)
-- ## [How to use?]()
+## Table of Contents
+- ### [Demo Picture](https://github.com/h11nry/RISC-V-Instruction-Converter/blob/main/README.md#demo-picture-and-introduction)
+- ### [Features](https://github.com/h11nry/RISC-V-Instruction-Converter/blob/main/README.md#features)
+- ### [How to use?](https://github.com/h11nry/RISC-V-Instruction-Converter/blob/main/README.md#how-to-use-1)
 
 ## Demo Picture and Introduction
 
