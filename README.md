@@ -2,7 +2,6 @@
   RISC-V-Instruction-Converter
 </h1>
 
-![alt text](https://github.com/h11nry/RISC-V-Instruction_Converter/blob/main/GUIToolPic.jpg?raw=true)
 ![alt text](https://github.com/h11nry/RISC-V-Instruction-Converter/blob/37b48b497c0d7d177f847e29ad83e58fba4fc66f/GUIToolPic.jpg)
 
 RISC-V Instruction Converter is a tool that may help a LITTLE BIT for the developer of RISC-V. Maybe the essential job it does is quite simple and naive. Maybe it can be easily achieved by some online websites. But I believe this tool may eventually help somebody, not matter in quick conversion or learn the functions, structures, binary and hexidecimal forms of instruction. Thank you for your visiting :)))
