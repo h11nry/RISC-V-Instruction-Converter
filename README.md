@@ -6,6 +6,9 @@
 
 RISC-V Instruction Converter is a tool that may help a LITTLE BIT for the developer of RISC-V. Maybe the essential job it does is quite simple and naive. Maybe it can be easily achieved by some online websites. But I believe this tool may eventually help somebody, not matter in quick conversion or learn the functions, structures, binary and hexidecimal forms of instruction. Thank you for your visiting :)))
 
+# Table of Contents
+- [Features](https://github.com/h11nry/RISC-V-Instruction-Converter/blob/main/README.md#features)
+
 ## Features
 
 - #### Auto Filling: This tool will help you fill some fixed blocks when using instructions, such as optcode, func3, and func7
