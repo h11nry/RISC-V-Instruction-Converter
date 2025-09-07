@@ -23,7 +23,7 @@ RISC-V Instruction Converter is a tool that may help a LITTLE BIT for the develo
 - #### Bilingual and Save your eyes: Switch between English and Chinese; Light mode and Dark mode
 
 ## How to use?
-- #### 1. Download <risc_v_instruction_converter_gui.py> from Github page or use git clone https://github.com/h11nry/RISC-V-Instruction-Converter.git
+- #### 1. Download <risc_v_instruction_converter_gui.py> from Github page or use <git clone https://github.com/h11nry/RISC-V-Instruction-Converter.git>
 - #### 2. Open Command Line or PowerShell (the one your preferred)
 - #### 3. cd to the folder where you download file/folder from STEP 1
 - #### (Optional) Use <ls> to check if you have the file <risc_v_instruction_converter_gui.py> in your current folder
